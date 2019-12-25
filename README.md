@@ -1,4 +1,4 @@
-# home-automation-using-telegram
+# Home-automation-using-telegram
 Home automation now becomes an essential part of IoT applications and people use their smartphone to control home appliances from anywhere over internet. There are various ways to control AC appliances with smartphone, some of them we have covered in our previous IoT Home Automation Tutorials, today we will learn one more method to control appliance through our smart phone.
 
 # Hardware Requirement
