@@ -8,7 +8,7 @@ One 100 W Bulb
 
 
 # Software Requirement
-Google Assistant \
+Telegram apllication \
 Adafruit \
 IFTTT
 
